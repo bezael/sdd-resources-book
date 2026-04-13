@@ -1,12 +1,34 @@
-# SDD Recursos — Spec-Driven Development
+# Spec-Driven Development: Construye con IA sin Perder el Control
 
-Recursos descargables del ebook **Spec-Driven Development: Construye con IA sin Perder el Control**.
+**Por Bezael Pérez — [DominiCode](https://dominicode.com)**
 
-Copia, adapta, y usa en tus proyectos.
+Vibe coding funciona. El problema es cuándo deja de funcionar.
+
+Este repositorio tiene los **3 primeros capítulos del libro en abierto** y las plantillas listas para usar en tus proyectos.
 
 ---
 
-## Qué hay aquí
+## Leer el preview gratuito
+
+| Capítulo | Tema |
+|---|---|
+| [Cap. 1 — Vibe coding: funciona hasta que no funciona](preview/cap-01-vibe-coding.md) | Por qué el vibe coding se rompe cuando el proyecto crece |
+| [Cap. 2 — Qué es SDD (y qué no es)](preview/cap-02-que-es-sdd.md) | La definición exacta, de dónde viene, por qué ahora |
+| [Cap. 3 — La spec como artefacto primario](preview/cap-03-spec-como-artefacto.md) | Qué tiene una spec, qué no tiene, y cómo escribirla en menos de una hora |
+
+---
+
+## Consigue el libro completo
+
+Los 3 capítulos anteriores son la Parte I — El Problema.
+
+El libro tiene 13 capítulos más las plantillas: las 7 fases del desarrollo con IA, cómo escribir un PRD que el agente no malinterprete, el loop de ejecución, SDD en equipo, y los 5 anti-patrones que destrozan una spec.
+
+**[→ leanpub.com/sdd-spec-driven-development](https://leanpub.com/sdd-spec-driven-development)**
+
+---
+
+## Plantillas y recursos descargables
 
 | Archivo                                                | Para qué sirve                                                |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
@@ -30,14 +52,6 @@ Copia, adapta, y usa en tus proyectos.
 1. Pídele al agente que genere un draft de constitution leyendo el código actual
 2. Revisa y corrige el draft
 3. Aplica `plantilla-prd.md` a las próximas features (no intentes documentar todo lo que ya existe)
-
----
-
-## El ebook
-
-Estos recursos son los apéndices del libro. El libro explica el método completo: por qué el vibe coding se rompe, cómo estructurar el pensamiento antes de ejecutar, y cómo usar estas plantillas para que la IA construya lo que tú quieres — no lo que interpreta.
-
-**[Consigue el ebook en Leanpub → ](https://leanpub.com/sdd-spec-driven-development)**
 
 ---
 
