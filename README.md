@@ -24,7 +24,7 @@ Los 3 capítulos anteriores son la Parte I — El Problema.
 
 El libro tiene 13 capítulos más las plantillas: las 7 fases del desarrollo con IA, cómo escribir un PRD que el agente no malinterprete, el loop de ejecución, SDD en equipo, y los 5 anti-patrones que destrozan una spec.
 
-**[→ leanpub.com/sdd-spec-driven-development](https://leanpub.com/sdd-spec-driven-development)**
+**[→ Digital (Leanpub)](https://leanpub.com/sdd-spec-driven-development) · [Físico (Amazon)](https://www.amazon.es/dp/B0GW6HN48K)**
 
 ---
 
