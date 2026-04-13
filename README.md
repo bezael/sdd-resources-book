@@ -58,7 +58,7 @@ El libro tiene 13 capítulos más las plantillas: las 7 fases del desarrollo con
 ## Más recursos
 
 - Sitio: [dominicode.com](https://dominicode.com)
-- Lead magnet con guía de inicio rápido: [dominicode.com/spec-driven-development](https://dominicode.com/spec-driven-development)
+- Plantilla Spec-Driven Development: [dominicode.com/spec-driven-development](https://dominicode.com/spec-driven-development)
 
 ---
 
