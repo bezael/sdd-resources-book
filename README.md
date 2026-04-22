@@ -26,6 +26,10 @@ El libro tiene 13 capítulos más las plantillas: las 7 fases del desarrollo con
 
 **[→ Digital (Leanpub)](https://leanpub.com/sdd-spec-driven-development) · [Físico (Amazon)](https://www.amazon.es/dp/B0GW6HN48K) · [Kindle](https://www.amazon.es/dp/B0G69MWJV6)**
 
+¿Prefieres aprenderlo en vídeo? **[→ Curso SDD en Udemy: Construye con IA, de la idea al producto con Claude Code](https://www.udemy.com/course/construye-con-ia-de-la-idea-al-producto-con-claude-code/?referralCode=AECD9EA3796054DEDD5D)**
+
+[![Curso SDD en Udemy — Construye con IA, de la idea al producto con Claude Code](thumbnail-udemy.jpg)](https://www.udemy.com/course/construye-con-ia-de-la-idea-al-producto-con-claude-code/?referralCode=AECD9EA3796054DEDD5D)
+
 ---
 
 ## Plantillas y recursos descargables
